@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: slateblue;
+
+}
+
+canvas {
+    border: 2px solid black;
+    align-items: center;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 30px;
+    background-color: royalblue;
+
+}
+
+button{
+    display: inline;
+    margin: 30px;
+    font-size: 30px;
+    font : rgb(92, 6, 92);
+    border-radius: 5px;
+    
+
+}
+
+
+.but{
+    margin-left: 600px;
+    color: purple;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.buton{
+    color: purple;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
